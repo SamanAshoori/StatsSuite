@@ -1,7 +1,7 @@
 #ChiSquared
 #This code will calculate chi squared
 #I did something similar to this for my A level geography / Computer Science Project
-#I may have to break some of my anti ai rules and use a randomly generated AI dataset
+#I may have to broke some of my anti ai rules and used a randomly generated AI dataset based on a starcraft esque rts (never played the game)
 
 import pandas as pd
 df = pd.read_csv('rts_match_data.csv')
